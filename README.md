@@ -1,4 +1,4 @@
-# Sonicjs
+# SonicJS
 OpenSource Node.js based CMS
 
 ## Description
